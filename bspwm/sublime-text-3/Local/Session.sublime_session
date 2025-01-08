@@ -1,0 +1,763 @@
+{
+	"file_history":
+	[
+		"/home/igarunya/.config/sublime-text-3/Packages/Theme - Afterglow/Afterglow-orange.sublime-theme",
+		"/home/igarunya/.config/sublime-text-3/Packages/User/Afterglow-orange.sublime-theme",
+		"/home/igarunya/.config/sublime-text-3/Packages/Theme - Arc/Arc Dark.sublime-theme",
+		"/home/igarunya/.config/sublime-text-3/Packages/User/Arc Dark.sublime-theme",
+		"/home/igarunya/html/kardan.pro/style.css",
+		"/var/log/Xorg.0.log",
+		"/var/log/lastlog",
+		"/home/igarunya/.config/polybar/cmus.sh",
+		"/home/igarunya/.config/polybar/config.ini",
+		"/home/igarunya/.config/sxhkd/sxhkdrc",
+		"/home/igarunya/.config/bspwm/bspwmrc",
+		"/home/igarunya/Music/Radio.pls",
+		"/home/igarunya/.config/alacritty/alacritty.toml",
+		"/var/log/wtmp",
+		"/home/igarunya/dots/bspwm-dotfiles/config/sxhkd/sxhkdrc",
+		"/home/igarunya/.config/polybar/bin/random_wallpaper",
+		"/home/igarunya/.config/polybar/bin/toggle-polybar",
+		"/run/user/1000/gvfs/mtp:host=HMD_Global_QM215-QRD__SN%3A9C5839CC_A00000K580172200353/Внутрішнє спільне сховище/Andrey_pb/pass",
+		"/home/igarunya/html/activebox/index.html",
+		"/home/igarunya/html/kompmaster/text.txt",
+		"/home/igarunya/html/kompmaster/index.html",
+		"/home/igarunya/Документы/Prince_of_Persia",
+		"/home/igarunya/html/footer.html",
+		"/home/igarunya/Загрузки/Anna/back/DISTRIBUTION PROSPECTUS RENNES",
+		"/home/igarunya/Загрузки/Anna/back/2023-04-17_12-14.png",
+		"/home/igarunya/.config/polybar/scripts/currencyrates.py",
+		"/home/igarunya/.config/polybar/config.ini.back",
+		"/home/igarunya/.config/picom/picom.conf",
+		"/home/igarunya/Загрузки/dot/.config/sxhkd/sxhkdrc",
+		"/home/igarunya/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/igarunya/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/home/igarunya/html/kardan.pro"
+	],
+	"last_version": 4189,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"next_update_check": 1736329773,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1034.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			6.0,
+			69.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/igarunya/.config/polybar/config.ini",
+				"/home/igarunya/.config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/bspwm/bspwmrc",
+				"/home/igarunya/html/kardan.pro/style.css",
+				"/var/log/Xorg.0.log",
+				"/var/log/lastlog",
+				"/home/igarunya/.config/polybar/cmus.sh",
+				"/home/igarunya/Music/Radio.pls",
+				"/home/igarunya/.config/alacritty/alacritty.toml",
+				"/var/log/wtmp",
+				"/home/igarunya/dots/bspwm-dotfiles/config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/polybar/bin/random_wallpaper",
+				"/home/igarunya/.config/polybar/bin/toggle-polybar",
+				"/run/user/1000/gvfs/mtp:host=HMD_Global_QM215-QRD__SN%3A9C5839CC_A00000K580172200353/Внутрішнє спільне сховище/Andrey_pb/pass",
+				"/home/igarunya/html/activebox/index.html",
+				"/home/igarunya/html/kompmaster/text.txt",
+				"/home/igarunya/html/kompmaster/index.html",
+				"/home/igarunya/Документы/Prince_of_Persia",
+				"/home/igarunya/html/footer.html",
+				"/home/igarunya/Загрузки/Anna/back/DISTRIBUTION PROSPECTUS RENNES",
+				"/home/igarunya/Загрузки/Anna/back/2023-04-17_12-14.png",
+				"/home/igarunya/.config/polybar/scripts/currencyrates.py",
+				"/home/igarunya/.config/polybar/config.ini.back",
+				"/home/igarunya/.config/picom/picom.conf",
+				"/home/igarunya/Загрузки/dot/.config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/user-dirs.locale",
+				"/home/igarunya/.config/user-dirs.dirs",
+				"/home/igarunya/Документы/kod_prilogeniya",
+				"/home/igarunya/ctlos/dots/.config/bspwm/polybar/launch.sh",
+				"/home/igarunya/.config/polybar/currencyrates.py",
+				"/home/igarunya/.config/polybar/crypto.py",
+				"/home/igarunya/.config/polybar/crypto-config",
+				"/home/igarunya/ctlos/dots/.config/polybar/config",
+				"/home/igarunya/.config/polybar/scripts/crypto-config",
+				"/home/igarunya/.config/polybar/scripts/crypto.py",
+				"/home/igarunya/Документы/Install virtualbox",
+				"/home/igarunya/Загрузки/owl_dotfiles/bspwm/bspwm_city/README.md",
+				"/home/igarunya/.config/kitty/kitty.conf",
+				"/home/igarunya/Загрузки/owl_dotfiles/bspwm/bspwm_city/.config/bspwm/bspwmrc",
+				"/home/igarunya/monitors.sh",
+				"/home/igarunya/Загрузки/Dotfiles/src/polybar/config.ini",
+				"/home/igarunya/Документы/xrandr",
+				"/run/media/igarunya/Work/for Anna/Игорь Анатолиевич/Алгоритмы_создание_карты.txt",
+				"/run/media/igarunya/Work/for Anna/Игорь Анатолиевич/Алгоритмы_создание_карты2.txt",
+				"/home/igarunya/Музыка/Radio.pls",
+				"/home/igarunya/Загрузки/config",
+				"/home/igarunya/Музыка/RadioROKS.m3u",
+				"/home/igarunya/Музыка/nashe-cmus.pls",
+				"/home/igarunya/Документы/Ntfs mount",
+				"/home/igarunya/.config/polybar/launch.sh",
+				"/home/igarunya/Загрузки/nashe"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"EE",
+					"\"\n",
+					"TERM",
+					"font",
+					"TERM",
+					"kitty",
+					"tel",
+					"+38063",
+					"ru",
+					"ua",
+					"SARL DPL",
+					"commercial@distribution-prospectus-lille.fr",
+					"SARL GRENOBLE DISTRIBUTION",
+					"GRENOBLE DISTRIBUTION",
+					"commercial@distribution-flyers-grenoble.fr",
+					"@",
+					"HAVRE DISTRIBUTION",
+					"SARL LE HAVRE DISTRIBUTION",
+					"commercial@distribution-flyers-lehavre.fr",
+					"commercial@distribution-flyers-lemans.fr",
+					"@",
+					"SARL LEMANS DISTRIBUTIONS",
+					"@",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"SAINT ETIENNE DISTRIBUTION",
+					"@",
+					"SAINT ETIENNE DISTRIBUTION",
+					"SARL DIJON BOITAGE",
+					"@",
+					"\"",
+					"TOULOUSE DISTRIBUTION",
+					"SARL TOULOUSE DISTRIBUTION",
+					"corner",
+					"alt + t",
+					"bspc rule -a Virt-manager state=floating follow=off",
+					"module/bspwm",
+					"colors.primary",
+					"wlan",
+					"bspc rule -a TelegramDesktop state=floating follow=off desktop='^7'",
+					"powermenu",
+					"bar",
+					"example",
+					"reload bspwm",
+					"net",
+					"wifi",
+					"mana",
+					"nm-"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"SARL DISTRIBUTION PROSPECTUS RENNES",
+					"commercial@distribution-prospectus-rennes.fr",
+					"SARL DPL",
+					"commercial@distribution-prospectus-lille.fr",
+					"SARL GRENOBLE DISTRIBUTION",
+					"commercial@distribution-flyers-grenoble.fr",
+					"commercial@distribution-flyers-lehavre.fr",
+					"SARL LE HAVRE DISTRIBUTION",
+					"SARL LEMANS DISTRIBUTIONS",
+					"LEMANS DISTRIBUTIONS",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"SAINT ETIENNE DISTRIBUTION",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"DIJON BOITAGE",
+					"SARL DIJON BOITAGE"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1908.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/igarunya/.config/bspwm/bspwmrc",
+					"settings":
+					{
+						"buffer_size": 2932,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAALIBAAAAAAAAswEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/igarunya/.config/sxhkd/sxhkdrc",
+					"settings":
+					{
+						"buffer_size": 4121,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "[colors]\nbackground = #23252e\nbackground-alt = #23252e\nforeground = #f9f8fe\nprimary = #393c45\nsecondary = #393c45\nalert = #393c45\ndisabled = #393c45\n\n[bar/top]\nmonitor = HDMI-1\nwidth = 1910\nheight = 22pt\nradius = 0\n\n; dpi = 96\n\nbackground = ${colors.background}\nforeground = ${colors.foreground}\n\nline-size = 0pt\n\nborder-size = 0pt\nborder-color = #00000000\n\npadding-left = 2\npadding-right = 16\n\nmodule-margin = 2\noffset-x = 5\noffset-y = 5\n\nfont-0 = JetBrainsMono-Bold:style=Regular:pixelsize=10;2\nfont-1 = FontAwesome:style=Regular:pixelsize=10;2\nfont-2 = FontAwesome6Brands:style=Regular:pixelsize=11;2\n\nmodules-left = xwindow\nmodules-center = xworkspaces\nmodules-right = cpu memory swap openweathermap-fullfeatured pulseaudio xkeyboard date powermenu\n\ntray-position = right\ntray-padding = 2\n\ntray-detached = true\ntray-offset-x = -5\ntray-offset-y = 0\ntray-maxsize = 20\ntray-scale = 1.0\n\n\ncursor-click = pointer\ncursor-scroll = ns-resize\n\nenable-ipc = true\n\nwm-restack = bspwm\n\n[bar/example]\nmonitor = HDMI-2\nwidth = 1910\nheight = 22pt\nradius = 0\n\n; dpi = 96\n\nbackground = ${colors.background}\nforeground = ${colors.foreground}\n\nline-size = 0pt\n\nborder-size = 0pt\nborder-color = #00000000\n\npadding-left = 2\npadding-right = 2\n\nmodule-margin = 2\noffset-x = 5\noffset-y = 5\n\nfont-0 = JetBrainsMono-Bold:style=Regular:pixelsize=10;2\nfont-1 = FontAwesome:style=Regular:pixelsize=10;2\nfont-2 = FontAwesome6Brands:style=Regular:pixelsize=10;2\nfont-3 = JetBrainsMono Nerd Font:style=Regular:pixelsize=10;2\n\nmodules-left = cmus\nmodules-center = xworkspaces\nmodules-right = eurrate usdrate openweathermap-fullfeatured pulseaudio xkeyboard date powermenu\n\n#tray-position = right\n#tray-padding = 2\n\n\ncursor-click = pointer\ncursor-scroll = ns-resize\n\nenable-ipc = true\n\nwm-restack = bspwm\n\n[module/xwindow]\ntype = internal/xwindow\nlabel = %title%\nlabel-maxlen = 30\n\n[module/bspwm]\ntype = internal/bspwm\n\npin-workspaces = true\n\n[module/xworkspaces]\ntype = internal/xworkspaces\n\nlabel-active = %name%\nlabel-active-background = #23252e\n#label-active-foreground = \nlabel-active-underline= ${colors.primary}\nlabel-active-padding = 2\n\n\nlabel-occupied = %name%\nlabel-occupied-padding = 2\nlabel-occupied-foreground = #898c95\n\nlabel-urgent = %name%\nlabel-urgent-background = ${colors.alert}\nlabel-urgent-padding = 2\n\nlabel-empty = %name%\nlabel-empty-foreground = ${colors.disabled}\nlabel-empty-padding = 2\n\n\n[module/pulseaudio]\ntype = internal/pulseaudio\n\nformat-volume-prefix = \" \"\nformat-volume-prefix-foreground = #898c95\nformat-volume = <label-volume>\n\nlabel-volume = %percentage%%\n\nlabel-muted = muted\nlabel-muted-foreground = ${colors.disabled}\n\n\n[module/xkeyboard]\ntype = internal/xkeyboard\nblacklist-0 = num lock\nblacklist-1 = caps lock\n\nlabel-layout = %layout%\nlabel-layout-foreground = #f9f8fe\nlabel-layout-background = #23252e\nlabel-font = 4\n\nformat-prefix = \" \"\nformat-prefix-foreground = #898c95\n\n\n[module/date]\ntype = internal/date\ninterval = 5\n\ndate = \ndate-alt = \"%d-%m-%Y\"\n\ntime = \"%H:%M\"\ntime-alt = %H:%M:%S\n\nformat-prefix =\"\"\nformat-prefix-foreground = #898c95\n\nlabel =%date% %time%\nlabel-foreground = #d8dee9\nlabel-font = 0\n\n\n[module/cmus]\ntype = custom/script\nexec = ~/.config/polybar/cmus.sh\nexec-if = pgrep -x cmus\ninterval = 1\n\nclick-left = cmus-remote --pause\nclick-right = cmus-remote --play\nscroll-up = cmus-remote --next\nscroll-down = cmus-remote --prev\n\nformat-prefix = \" \"\nformat-prefix-foreground = #898c95\nformat = <label>\nlabel-foreground = #d8dee9\nformat-background = #23252e\nlabel = %output%\nlabel-maxlen = 100\n\n\t\n[module/openweathermap-fullfeatured]\ntype = custom/script\nexec = /home/igarunya/.config/polybar/openweathermap-fullfeatured.sh\ninterval = 600\nlabel-font = 0\nlabel-foreground = #d8dee9\n\nformat-prefix =\"\"\nformat-prefix-foreground = #898c95\n\n#[module/wlan]\n#type = internal/network\n#interface = enp27s0\n#interval = 1.0\n#\n#format-connected = <label-connected>\n#format-connected-padding = 1\n#label-connected =   %downspeed%%\n#label-connected-foreground = ${colors.primary}\n#label-connected-padding = 1\n#\n#format-disconnected = <label-disconnected>\n#format-disconnected-padding = 1\n#label-disconnected = 睊  \n#label-disconnected-foreground = ${colors.disabled}\n#label-disconnected-padding = 1\n\n[module/powermenu]\ntype = custom/menu\nlabel-open = \n#label-open-foreground = ${colors.primary}\nlabel-close = cancel\nlabel-close-foreground = ${colors.primary}\nlabel-separator = |\n#label-separator-foreground = ${colors.foreground-alt}\n\nmenu-0-0 = suspend\nmenu-0-0-exec = systemctl suspend\nmenu-0-1 = logout\nmenu-0-1-exec = bspc quit\nmenu-0-2 = reboot\nmenu-0-2-exec = systemctl reboot\nmenu-0-3 = power off\nmenu-0-3-exec = systemctl poweroff\n\n[module/usdrate]\ntype = custom/script\nexec = $HOME/.config/polybar/scripts/currencyrates.py usd uah\ninterval=600\n\n[module/eurrate]\ntype = custom/script\nexec = $HOME/.config/polybar/scripts/currencyrates.py eur uah\ninterval=600\n\n[settings]\nscreenchange-reload = falce\npseudo-transparency = true\n\n[module/cpu]\ntype = internal/cpu\nformat-prefix =\" \"\nformat-prefix-foreground = #898c95\n\n; Seconds to sleep between updates\n; Default: 1\ninterval = 0.5\n\n; Default: 80\n; New in version 3.6.0\nwarn-percentage = 95\n\n[module/memory]\ntype = internal/memory\nformat-prefix =\" \"\nformat-prefix-foreground = #898c95\n\n; Seconds to sleep between updates\n; Default: 1\ninterval = 3\nlabel = %gb_used%\n\n; Default: 90\n; New in version 3.6.0\nwarn-percentage = 95\n\n[module/swap]\ntype = internal/memory\nformat-prefix =\" \"\nformat-prefix-foreground = #898c95\n\n; Seconds to sleep between updates\n; Default: 1\ninterval = 3\nlabel = %gb_swap_used%\n\n; Default: 90\n; New in version 3.6.0\nwarn-percentage = 95\n",
+					"file": "/home/igarunya/.config/polybar/config.ini",
+					"file_size": 5659,
+					"file_write_time": 133807433712299183,
+					"settings":
+					{
+						"buffer_size": 5637,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "-"
+							},
+							"AQAAAJ0AAAAAAAAAngAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdAAAAAAAAAJ0AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							2,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ0AAAAAAAAAnQAAAAAAAAABAAAALQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeAAAAAAAAAJ4AAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/igarunya/html/kardan.pro"
+			],
+			"file_history":
+			[
+				"/home/igarunya/html/kardan.pro/style.css",
+				"/var/log/Xorg.0.log",
+				"/var/log/lastlog",
+				"/home/igarunya/.config/polybar/cmus.sh",
+				"/home/igarunya/.config/polybar/config.ini",
+				"/home/igarunya/.config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/bspwm/bspwmrc",
+				"/home/igarunya/Music/Radio.pls",
+				"/home/igarunya/.config/alacritty/alacritty.toml",
+				"/var/log/wtmp",
+				"/home/igarunya/dots/bspwm-dotfiles/config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/polybar/bin/random_wallpaper",
+				"/home/igarunya/.config/polybar/bin/toggle-polybar",
+				"/run/user/1000/gvfs/mtp:host=HMD_Global_QM215-QRD__SN%3A9C5839CC_A00000K580172200353/Внутрішнє спільне сховище/Andrey_pb/pass",
+				"/home/igarunya/html/activebox/index.html",
+				"/home/igarunya/html/kompmaster/text.txt",
+				"/home/igarunya/html/kompmaster/index.html",
+				"/home/igarunya/Документы/Prince_of_Persia",
+				"/home/igarunya/html/footer.html",
+				"/home/igarunya/Загрузки/Anna/back/DISTRIBUTION PROSPECTUS RENNES",
+				"/home/igarunya/Загрузки/Anna/back/2023-04-17_12-14.png",
+				"/home/igarunya/.config/polybar/scripts/currencyrates.py",
+				"/home/igarunya/.config/polybar/config.ini.back",
+				"/home/igarunya/.config/picom/picom.conf",
+				"/home/igarunya/Загрузки/dot/.config/sxhkd/sxhkdrc",
+				"/home/igarunya/.config/user-dirs.locale",
+				"/home/igarunya/.config/user-dirs.dirs",
+				"/home/igarunya/Документы/kod_prilogeniya",
+				"/home/igarunya/ctlos/dots/.config/bspwm/polybar/launch.sh",
+				"/home/igarunya/.config/polybar/currencyrates.py",
+				"/home/igarunya/.config/polybar/crypto.py",
+				"/home/igarunya/.config/polybar/crypto-config",
+				"/home/igarunya/ctlos/dots/.config/polybar/config",
+				"/home/igarunya/.config/polybar/scripts/crypto-config",
+				"/home/igarunya/.config/polybar/scripts/crypto.py",
+				"/home/igarunya/Документы/Install virtualbox",
+				"/home/igarunya/Загрузки/owl_dotfiles/bspwm/bspwm_city/README.md",
+				"/home/igarunya/.config/kitty/kitty.conf",
+				"/home/igarunya/Загрузки/owl_dotfiles/bspwm/bspwm_city/.config/bspwm/bspwmrc",
+				"/home/igarunya/monitors.sh",
+				"/home/igarunya/Загрузки/Dotfiles/src/polybar/config.ini",
+				"/home/igarunya/Документы/xrandr",
+				"/run/media/igarunya/Work/for Anna/Игорь Анатолиевич/Алгоритмы_создание_карты.txt",
+				"/run/media/igarunya/Work/for Anna/Игорь Анатолиевич/Алгоритмы_создание_карты2.txt",
+				"/home/igarunya/Музыка/Radio.pls",
+				"/home/igarunya/Загрузки/config",
+				"/home/igarunya/Музыка/RadioROKS.m3u",
+				"/home/igarunya/Музыка/nashe-cmus.pls",
+				"/home/igarunya/Документы/Ntfs mount",
+				"/home/igarunya/.config/polybar/launch.sh",
+				"/home/igarunya/Загрузки/nashe"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"EE",
+					"\"\n",
+					"TERM",
+					"font",
+					"TERM",
+					"kitty",
+					"tel",
+					"+38063",
+					"ru",
+					"ua",
+					"SARL DPL",
+					"commercial@distribution-prospectus-lille.fr",
+					"SARL GRENOBLE DISTRIBUTION",
+					"GRENOBLE DISTRIBUTION",
+					"commercial@distribution-flyers-grenoble.fr",
+					"@",
+					"HAVRE DISTRIBUTION",
+					"SARL LE HAVRE DISTRIBUTION",
+					"commercial@distribution-flyers-lehavre.fr",
+					"commercial@distribution-flyers-lemans.fr",
+					"@",
+					"SARL LEMANS DISTRIBUTIONS",
+					"@",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"SAINT ETIENNE DISTRIBUTION",
+					"@",
+					"SAINT ETIENNE DISTRIBUTION",
+					"SARL DIJON BOITAGE",
+					"@",
+					"\"",
+					"TOULOUSE DISTRIBUTION",
+					"SARL TOULOUSE DISTRIBUTION",
+					"corner",
+					"alt + t",
+					"bspc rule -a Virt-manager state=floating follow=off",
+					"module/bspwm",
+					"colors.primary",
+					"wlan",
+					"bspc rule -a TelegramDesktop state=floating follow=off desktop='^7'",
+					"powermenu",
+					"bar",
+					"example",
+					"reload bspwm",
+					"net",
+					"wifi",
+					"mana",
+					"nm-"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"SARL DISTRIBUTION PROSPECTUS RENNES",
+					"commercial@distribution-prospectus-rennes.fr",
+					"SARL DPL",
+					"commercial@distribution-prospectus-lille.fr",
+					"SARL GRENOBLE DISTRIBUTION",
+					"commercial@distribution-flyers-grenoble.fr",
+					"commercial@distribution-flyers-lehavre.fr",
+					"SARL LE HAVRE DISTRIBUTION",
+					"SARL LEMANS DISTRIBUTIONS",
+					"LEMANS DISTRIBUTIONS",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"SAINT ETIENNE DISTRIBUTION",
+					"SARL SAINT ETIENNE DISTRIBUTION",
+					"DIJON BOITAGE",
+					"SARL DIJON BOITAGE"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/igarunya/html/kardan.pro"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/igarunya/.config/bspwm/bspwmrc",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2932,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										435,
+										435
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/igarunya/.config/sxhkd/sxhkdrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2458.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/igarunya/.config/polybar/config.ini",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5637,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										159,
+										159
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,5,39,1913,1073,3840,1080,2",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
