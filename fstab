@@ -1,0 +1,16 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sdb5
+UUID=0c56abd8-afc0-4f94-8a62-90694367eff1	/         	ext4      	rw,relatime	0 1
+
+# /dev/sdb2
+UUID=CA3B-5D8A      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sda1
+UUID=b0b67b3d-057f-4af5-9c7b-c52ef8dfb04a	none      	swap      	defaults  	0 0
+
+#ntfs sda2
+/dev/sda2 /run/media/igarunya/Work   ntfs-3g   defaults               0       0
+
